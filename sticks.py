@@ -1,3 +1,6 @@
+# This is a fun little game/project with my very first time creating a simple gaming algorithm from scratch
+
+
 import random   # needed to make random number
 import math		# needed for fraction splitting
 
